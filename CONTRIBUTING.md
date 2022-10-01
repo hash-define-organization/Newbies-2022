@@ -34,9 +34,3 @@ git push origin branch_name
 * Wait for your PR review and approval from the maintainers.
 * :star: this repository if you liked it.
 * Check your progress here (https://hacktoberfest.com/profile)
-
-  <!-- <p align="center">
-  <a><img src="https://i.pinimg.com/originals/9c/fb/09/9cfb09f0c029e1f8c938208a7e278d76.gif" alt="define" width="500"></a>
-  <br>
-  <br>
-   -->

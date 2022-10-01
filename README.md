@@ -35,7 +35,7 @@
 <p align="center">
   <!-- <img src="https://i.ibb.co/NxXxwHX/define-logo.jpg" alt="define-logo" border="0"></a> -->
   
-  # Photu banao logo
+  ![image](https://user-images.githubusercontent.com/96205648/193408591-1c9cf31d-b6c8-49ba-9ee4-f9bf832cf686.png)
 
 </p>
 
@@ -97,7 +97,7 @@
 :arrow_forward: Heavily focusing on what is best for the community
     
 
-## :label: About #DEFINE :trophy:
+## :label: About Hash Define :trophy:
 
 :point_right: We at  #define aim to build a platform that will not only encourage you to find which domain interests you but will also help you to come forward and gain expertise in that.
 
