@@ -7,12 +7,12 @@
 * Clone the forked repository to your local machine.
 
 ```markdown
-git clone https://github.com/your-username/Hacktober-Beginners-2022
+git clone https://github.com/your-username/Newbies-2022
 ```
 
 * Add upstream URL 
 ```markdown
-git remote add upstream https://github.com/hash-define-organization/Hacktober-Beginners-2022.git
+git remote add upstream https://github.com/hash-define-organization/Newbies-2022.git
 ```
 
 * Create a new branch
