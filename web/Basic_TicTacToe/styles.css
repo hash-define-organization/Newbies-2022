@@ -1,0 +1,59 @@
+
+body
+{
+    background-color: #e0e0e0;
+}
+h1
+{
+    padding: 2rem;
+    font-weight: 700;
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: Lato;
+}
+.page
+{
+    display: flex;
+    justify-content: center;
+}
+.board
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 30px -3px rgba(0,0,0,0.22);
+}
+.board-row
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.board-element
+{
+
+    background-color: white;
+
+    border: 2px solid rgb(228, 228, 228);
+    font-size: 40px;
+
+    width: 100px;
+    height: 100px;
+
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+
+    transition: all .2s linear;
+
+    font-weight: 900;
+}
+.board-element:hover
+{
+    background-color: rgb(241, 241, 241);
+}
